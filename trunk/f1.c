@@ -6,5 +6,5 @@ return a;
 
 
 positiveInt myabs(int a){
-  return (a<0? -1*b : a);
+  return (a<0? -1*a : a);
 }
