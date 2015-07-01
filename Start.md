@@ -1,0 +1,10 @@
+#Proyecto Ejemplo Asignatura IS.
+
+# Introduction #
+
+This is the wiki page devoted to gather all the documentation in respect to the IS Example project
+
+
+# Details #
+
+This project is only intended for academic **purposes** and has no particular nor functional goals. Of course, there is not any guarantee about the code presented here.
